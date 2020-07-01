@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/EnderTogether/WorldEnd-Discord-Bot"><img src="https://imgur.com/pgeTSgF" alt="WorldEnd Discord Bot"></a>
+  <a href="https://github.com/EnderTogether/WorldEnd-Discord-Bot"><img src="https://imgur.com/pgeTSgF.png" alt="WorldEnd Discord Bot"></a>
   <br>
   WorldEnd Discord Bot
   <br>
