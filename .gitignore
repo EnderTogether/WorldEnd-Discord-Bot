@@ -1,0 +1,7 @@
+
+commands/
+node_modules/
+config.json
+package.json
+package-lock.json
+main.js
