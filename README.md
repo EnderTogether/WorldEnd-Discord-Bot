@@ -28,13 +28,18 @@ Just now the modules music and a little moderation are already built in!
 When the bot is ready to join a server, it will run on a performance good server.
 WorldEnd will run 24/7, unless a new update is installed.
 
+
 **Current Version:**
-1.1.0
+1.2.0
+
 
 **Current features:**
 
+- Core features (info, say, time, uptime)
 - Moderation features (chat cleanup, kick/ban)
 - Music features (YouTube, playlists, queues)
+- Switch languages (de-DE, en-EN) (1/2 ready)
+- ShardingManager
 
 **Work in Progress:**
 
@@ -42,6 +47,10 @@ WorldEnd will run 24/7, unless a new update is installed.
 - Moderation features (mute)
 - Imgur/gif search
 - Admin automation (self-role assignment)
+
+
+
+
 
 
 # Join the community!
